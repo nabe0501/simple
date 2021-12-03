@@ -1,1 +1,2 @@
 # simple
+#include<stdio.h>
